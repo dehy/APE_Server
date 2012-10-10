@@ -42,9 +42,9 @@
 #define MAX_MSG_LEN 	1024
 #define MAX_RAW_LEN 	1024
 
-#define TIMEOUT_SEC 45
+#define TIMEOUT_SEC 1900
 
-#define SERVER_NAME "APE.Server"
+#define SERVER_NAME "APE.Server (Flying Pingu edition)"
 #define _VERSION "1.1.2-dev"
 
 int server_is_running;
